@@ -1,9 +1,4 @@
 /*---------------------------------------------
-Template Name: Abstrak
-Template URL: https://new.axilthemes.com/demo/template/abstrak/
-Description: Digital Agency HTML5 Template
-Author: Axilthemes
-Author URL: https://axilthemes.com/
 Version: 1.6.0
 
 ===============================================   
@@ -535,7 +530,7 @@ input {
 }
 
 .input-group:before {
-    content: url("../media/icon/message.png");
+    content: url("message.png");
     position: absolute;
     left: 30px;
     top: 24px;
@@ -2133,7 +2128,7 @@ Pagination
 }
 
 .shape-group-20 .shape.shape-8.marque-images {
-    background-image: url("../media/others/designer-text.png");
+    background-image: url("s/designer-text.png");
     background-repeat: repeat-x;
     background-size: auto;
     height: 250px;
@@ -3375,7 +3370,7 @@ Pagination
 }
 
 .banner.banner-style-5 {
-    background-image: url("../media/banner/banner-bg-1.png");
+    background-image: url("r/banner-bg-1.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -9432,7 +9427,7 @@ body.op-modal-open {
 }
 
 .active-dark-mode .input-group::before {
-    content: url("../media/icon/message-light.png");
+    content: url("message-light.png");
 }
 
 @media only screen and (max-width: 479px) {
